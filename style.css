@@ -334,7 +334,14 @@ a:hover{
 
 
 @media(max-width:578px){
+
+    .images{
+        display: none;
+    }
     
+    .btn{
+        font-size: 15px;
+    }
     .about-text{
         text-align: center;
     }
